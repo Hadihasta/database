@@ -1,0 +1,9 @@
+{
+    "dev":{
+        "drive" : "pg",
+        "user"  : "postgres",
+        "password" : "postgres",
+        "host " : "localhost",
+        "database" : "world"
+    } 
+}
